@@ -74,6 +74,8 @@ namespace KeyMapper
                 { "X", 88 },
                 { "Y", 89 },
                 { "Z", 90 },
+                {"LWIN",91 },
+                {"RWIN",92 },
                 { "NUMPAD0", 96 },
                 { "NUMPAD1", 97 },
                 { "NUMPAD2", 98 },

@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyMapper", "KeyMapper\KeyM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyMapperTests", "KeyMapperTests\KeyMapperTests.csproj", "{2D2387B5-7634-4246-936F-B04B0E23D646}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MouseMapperDLL", "..\MouseMapperDLL\MouseMapperDLL\MouseMapperDLL.vcxproj", "{B86F27F6-26EE-41AF-8163-C83DD672A063}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B7546848-A093-455E-95E5-F069C17B3C53}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyMapperDLL", "MouseMapperDLL\MouseMapperDLL\MouseMapperDLL.vcxproj", "{B86F27F6-26EE-41AF-8163-C83DD672A063}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

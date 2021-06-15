@@ -2,3 +2,4 @@
 j,k::Single,F11
 q::Single,g
 backtick::Open,chrome
+1::Single,2
