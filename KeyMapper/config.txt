@@ -1,0 +1,4 @@
+﻿a,b,c::Single,F5
+j,k::Single,F11
+q::Single,g
+backtick::Open,chrome
